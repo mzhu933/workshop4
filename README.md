@@ -19,9 +19,10 @@ interactivity
 ### put text in
 - this kinds of code makes a lots of mess to me, too hard
 
-### 1. createCanvas(windowWidth,windowHeight); 
-### 2. Function windowResized(){
-### ResizeCanvas(windowWidth,windowHeight); 
-- means make canvas to the whole screen (based on your device)
+## make canvas to the whole screen (based on your device)
+1. createCanvas(windowWidth,windowHeight);
+2. - Function windowResized(){
+   - ResizeCanvas(windowWidth,windowHeight);
+
 
 
