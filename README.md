@@ -1,4 +1,4 @@
-<img width="1265" alt="截屏2025-01-16 下午7 29 05" src="https://github.com/user-attachments/assets/2434e49a-e8c9-4107-8515-59abad9b071b" /># workshop4
+# workshop4
 interactivity
 
 - press mouse, random image comes out
