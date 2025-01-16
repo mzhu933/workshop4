@@ -16,3 +16,10 @@ interactivity
 - let x = selection.selected();
 <img width="1238" alt="截屏2025-01-16 下午7 32 34" src="https://github.com/user-attachments/assets/176bafae-955e-49ce-a396-7eef2e838082" />
 
+### put text in
+- this kinds of code makes a lots of mess to me, too hard
+
+### createCanvas(windowWidth,windowHeight); 
+means make canvas to the whole screen (based on your device)
+
+
