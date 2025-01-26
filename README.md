@@ -45,4 +45,4 @@ interactivity
 <img width="1268" alt="截屏2025-01-16 下午10 07 13" src="https://github.com/user-attachments/assets/f3e99ffa-6f85-497b-aab3-62f2da98299b" />
 
 ### text
-- I've been tried using text box and add some text, but it is so complicated to me, My code can’t load everytime, so I just experience copy down the code in workshop and replaced image to my own. Coding is a completely new field for me, all the problems are driving me crazy 😭😡😡
+- I've been tried using text box and add some text, but it is so complicated to me, My code can’t load everytime, so I just experience copy down the code in workshop and replaced image to my own, the text box works woth its own. Coding is a completely new field for me, all the problems are driving me crazy 😭😡😡 I will try to combine text box in further code. 
