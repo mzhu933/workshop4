@@ -20,12 +20,12 @@ interactivity
 ### put text in
 - this kinds of code makes a lots of mess to me, too hard
 
-## make canvas to the whole screen (based on your device)
+## - make canvas to the whole screen (based on your device)
 1. createCanvas(windowWidth,windowHeight);
 2. - Function windowResized(){
    - ResizeCanvas(windowWidth,windowHeight);
 
-## process of learning and developing my code: 
+## - process of learning and developing my code: 
 <img width="382" alt="截屏2025-01-16 下午10 03 01" src="https://github.com/user-attachments/assets/75bc96c4-ff4b-4041-8f8b-8ea124d839c2" />
 <img width="385" alt="截屏2025-01-16 下午10 03 46" src="https://github.com/user-attachments/assets/80013c50-2116-4e2c-a293-d7329b82b91e" />
 
@@ -44,5 +44,6 @@ interactivity
 <img width="378" alt="截屏2025-01-16 下午10 05 50" src="https://github.com/user-attachments/assets/749b76fd-4dea-4c65-bcc1-7c78d8df2ed4" />
 <img width="1268" alt="截屏2025-01-16 下午10 07 13" src="https://github.com/user-attachments/assets/f3e99ffa-6f85-497b-aab3-62f2da98299b" />
 
-### text
+### - refelction: 
+- Creating this code was a excited way to explore how simple interactions can shape a visual experience. I learned how to bring elements like buttons and sliders together to let users play and experiment with images. The posterization effect was especially interesting, as it gave me new ideas about transforming visuals in real time. 
 - I've been tried using text box and add some text, but it is so complicated to me, My code can’t load everytime, so I just experience copy down the code in workshop and replaced image to my own, the text box works woth its own. Coding is a completely new field for me, all the problems are driving me crazy 😭😡😡 I will try to combine text box in further code. 
